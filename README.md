@@ -37,3 +37,13 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swarajhoster&show_icons=true&locale=en" alt="swarajhoster" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swarajhoster&" alt="swarajhoster" /></p>
+
+## 📈 Activity Graph
+<p align="center">
+	<img src="https://activity-graph.herokuapp.com/graph?username=iampawan&theme=minimal"/>
+</p>
+
+## 💳 Github Profile Summary Card
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iampawan&theme=vue"/>
+</p>

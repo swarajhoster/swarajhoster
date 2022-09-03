@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Swaraj Kumar Singh</h1>
 <h3 align="center">AI Scientist & Full-stack Developer (Frontend, Backend) || Flutter Developer. Interested in WEB 3.0 from Bangalore, INDIA</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swarajhoster&label=Profile%20views&color=0e75b6&style=flat" alt="swarajhoster" /> </p>

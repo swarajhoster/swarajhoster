@@ -40,10 +40,10 @@
 
 ## 📈 Activity Graph
 <p align="center">
-	<img src="https://activity-graph.herokuapp.com/graph?username=iampawan&theme=minimal"/>
+	<img src="https://activity-graph.herokuapp.com/graph?username=swarajhoster&theme=minimal"/>
 </p>
 
 ## 💳 Github Profile Summary Card
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iampawan&theme=vue"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swarajhoster&theme=vue"/>
 </p>

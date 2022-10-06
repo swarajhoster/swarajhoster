@@ -20,7 +20,7 @@
 
 - 📄 Know about my experiences [https://effulgent-beignet-9ed875.netlify.app/](https://effulgent-beignet-9ed875.netlify.app/)
 
-- ⚡ Fun fact **I am not FUNNY**
+- ⚡ Fun fact **I am FUNNY**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
